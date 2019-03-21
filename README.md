@@ -1,0 +1,2 @@
+# hotels
+Documents about hotels
